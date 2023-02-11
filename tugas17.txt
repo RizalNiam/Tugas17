@@ -1,0 +1,8 @@
+Daftar API:
+login,logout,forgot password, registrastion, auth
+google login, facebook login, send email, add individu, read individu
+
+
+Daftra tabel:
+akun, individu, bahan pangan, gizi populasi, user
+akg, aplikasi, admin, history, wilayah
